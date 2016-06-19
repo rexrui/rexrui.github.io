@@ -6,7 +6,7 @@
     <entry>
       <title><![CDATA[曾经的你]]></title>
       <url>http://rex-hua.com/2016/06/29/%E6%9B%BE%E7%BB%8F%E7%9A%84%E4%BD%A0/</url>
-      <content type="html"><![CDATA[<iframe height="498" width="510" src="http://player.youku.com/embed/XMTkwOTgwNDQw" frameborder="0" allowfullscreen></iframe>]]></content>
+      <content type="html"><![CDATA[<embed src="http://player.youku.com/player.php/sid/XMTkwOTgwNDQw/v.swf" allowfullscreen="true" quality="high" width="480" height="400" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash">]]></content>
     </entry>
     
   
